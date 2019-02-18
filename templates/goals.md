@@ -2,7 +2,7 @@
 # $NAME's Course Goals
 ANTONIOS LIAMIS
 
-Benchmark: Learning though Python projects
+Benchmark: Learning though Python projects how to make my own algorythms
 ## Goal One
 Through that course I will try to learn Python as it's said the most popular language in Digital Humanities.
 As a Web designer I'm quite familiar HTML and CSS  and a little a bit of Jqueries but I haven't dug much into it programming. Being recently a UX Designer-Researcher I think Python will provide me definitely with more development skills to understand better Web development methods and practices.
