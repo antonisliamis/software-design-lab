@@ -48,7 +48,7 @@ Hour 4: HTML and CSS though Jekyll
 Hour 5: Reading as homework : Creating a website with WordPress: The good and the bad.
 Hour 6: Reading as homework : What is Bootstrap? – The History and the Hype.
 
-## Week Seven 3/7 to -)
+## Week Seven -)
 This week, I spent part of my time reading about Open source articles and Ethics,I concentrated mostly in trying to understand the two books The Cathedral and the Bazaar and Free as in Freedom. Although I found them very inteesting I had lots of questions concerning the similarities and differences about Ethics, Open Source, and Proprietary Softwares. Many of my questions have been solved during our discussion in our lab.I also found the time to watch some Python tutorials through Lynda.com
 Hour 1: Ethics The Cathedral and the Bazaar reading
 Hour 2: Ethics The Cathedral and the Bazaar reading
@@ -56,3 +56,28 @@ Hour 3:  Free as in Freedom  reading
 Hour 4:  Free as in Freedom  reading
 Hour 5: Python Syntax though Lynda
 Hour 6: Python Syntax though Lynda
+
+## Week Eight  -)
+This week, I was trying to understand the menaing of Programming Paradigms between Im[erative Functional and Objected-Oriented. To be frank I didnt understand much their meaning although I read all the introduction to Programming Paradigms.My goal is to study again on those and specificall to Object Oriented Programming (OOP)] Although I keep on studying Python language thorough Lynda.com and I started also to make all the exercises through "Learn Python the Hard Way"
+Hour 1: Reading Paradigms
+Hour 2: Reading Paradigms
+Hour 3: Reading Paradigms
+Hour 4: Python study through Hard Way
+Hour 5: Python study through Hard Way
+Hour 6: Python study through Hard Way  exercises 1-20
+## Week Nine  -)
+This week, I was very impressed by our Visitor Designers as I found  a lot of intersting things regarding the User Experience Methods.I actually asked from Clara to send me mere detaila for User Experience Methods as I'm working  freelancing a UX Designer. I also didnt't have tha chance to deep into Jekyll some weeks ago. So I grabbed the chance to read some more tutorials on that.
+My goal is to find more time to learn Python though cause that my main matter in the Lab.
+Hour 1: Reading Paradigms
+Hour 2: Reading Paradigms
+Hour 3: Reading Paradigms
+Hour 4: Python study through Hard Way
+Hour 5: Python study through Hard Way
+Hour 6: Python study through Hard Way  exercises 1-20
+Hour 7: Jekyll Tutorials
+## Week Ten  -)
+This week, I was dedicated at my  Homework project regarding the description I wanted to present in the class. Although I found my command line project very interesting and I wish it could be voted from the other students it didn't succeeded in being selected.May be also it was my mistake as I uploaded it the last minute before going to the class and the students didn't have the chance to read it knowingly.But I would like to be participate in a group with commnand line. Finally I chose to be in the group making Sql Database with Rob and Liza and I was very happy about that. Lerning Sql is challenging for me to  as I have a basic knowledge in terms of making websites through various CMS platforms.
+Hour 1: Writing proposal for final project (Email Sheduler-Reminder (web app)
+Hour 2: Writing proposal for final  project (Email Sheduler-Reminder (webapp))
+Hour 3: Writing proposal for final  project (Email Sheduler-Reminder (webapp))
+Hour 4: Writing proposal for final  project (Email Sheduler-Reminder (webapp))
